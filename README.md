@@ -1,2 +1,2 @@
 # git_assignment_HeroVired
-This repo used to submit HeroVired Assignments
+This repo is used to submit HeroVired Assignments
